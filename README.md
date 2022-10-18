@@ -1,7 +1,7 @@
 <br />
 <p align="center">
  
-   <img src="Design/VR3 telecom - Desktop.png" width="380" height="600">
+   <img src="VR3Telecom/Design/VR3 telecom - Desktop.png" width="380" height="600">
 
 
   <h3 align="center">VR3Telecom</h3>
